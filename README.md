@@ -10,7 +10,7 @@
 
 ### Integbioデータベースカタログ ###
 
-[![スクリーンショット](https://raw.githubusercontent.com/meso-cacase/20230510/master/images/66rhL1X.png)](https://integbio.jp/dbcatalog/)
+[![スクリーンショット](https://github.com/meso-cacase/20240521/assets/819807/8bfd879b-dd50-48f8-b295-80262ee9081b)](https://integbio.jp/dbcatalog/)
 
   - Integbioデータベースカタログ – https://integbio.jp/dbcatalog/
   - 統合TVによる解説動画
@@ -18,7 +18,7 @@
 
 ### 統合TV ###
 
-[![スクリーンショット](https://raw.githubusercontent.com/meso-cacase/20230510/master/images/X6qqEEj.png)](https://togotv.dbcls.jp/)
+[![スクリーンショット](https://github.com/meso-cacase/20240521/assets/819807/b383337b-26f2-4a38-a8cf-75f23c6791a8)](https://togotv.dbcls.jp/)
 
   - 統合TV – https://togotv.dbcls.jp/
   - 統合TVによる解説動画
@@ -26,19 +26,19 @@
 
 ### NCBI ###
 
-[![スクリーンショット](https://raw.githubusercontent.com/meso-cacase/20230510/master/images/gKwVrgH.png)](https://www.ncbi.nlm.nih.gov/)
+[![スクリーンショット](https://github.com/meso-cacase/20240521/assets/819807/b6cbf701-a519-4a81-8ce1-fb0d07b43b5e)](https://www.ncbi.nlm.nih.gov/)
 
 - NCBI - https://www.ncbi.nlm.nih.gov/
 
 ### NCBI BLAST ###
 
-[![スクリーンショット](https://raw.githubusercontent.com/meso-cacase/20230510/master/images/tUC78ZP.png)](https://blast.ncbi.nlm.nih.gov/)
+[![スクリーンショット](https://github.com/meso-cacase/20240521/assets/819807/cbf5a0cf-5b32-40fc-8bd7-307eb82057a0)](https://blast.ncbi.nlm.nih.gov/)
 
   - NCBI BLAST - https://blast.ncbi.nlm.nih.gov/
 
 ### UCSC BLAT ###
 
-[![スクリーンショット](https://raw.githubusercontent.com/meso-cacase/20230510/master/images/dcRnHNx.png)](https://genome.ucsc.edu/cgi-bin/hgBlat)
+[![スクリーンショット](https://github.com/meso-cacase/20240521/assets/819807/5e0b40a9-3049-4d66-8754-0aee96ba113a)](https://genome.ucsc.edu/cgi-bin/hgBlat)
 
   - UCSC BLAT - https://genome.ucsc.edu/cgi-bin/hgBlat
   - 配列を探してみよう - tgaatgaagacgatcgactcaaattcacagctccacaggatggaattcttcttaacaaagctcgacaattcgga （線虫）
@@ -47,7 +47,7 @@
 
 ### UCSCゲノムブラウザ ###
 
-[![スクリーンショット](https://raw.githubusercontent.com/meso-cacase/20230510/master/images/BR6fhYM.png)](https://genome.ucsc.edu/cgi-bin/hgTracks)
+[![スクリーンショット](https://github.com/meso-cacase/20240521/assets/819807/5c372756-9333-4448-aa77-38cf6de40a68)](https://genome.ucsc.edu/cgi-bin/hgTracks)
 
   - UCSCゲノムブラウザ – https://genome.ucsc.edu/cgi-bin/hgTracks
   - 統合TVによる解説動画
@@ -60,7 +60,7 @@
 
 ### 統合遺伝子検索GGRNA ###
 
-[![スクリーンショット](https://raw.githubusercontent.com/meso-cacase/20230510/master/images/9QRWJSX.jpg)](https://GGRNA.dbcls.jp/)
+[![スクリーンショット](https://github.com/meso-cacase/20240521/assets/819807/a720a840-0431-44df-be81-a3061aa89f03)](https://GGRNA.dbcls.jp/)
 
   - 統合遺伝子検索GGRNA - https://GGRNA.dbcls.jp/
   - 統合TVによる解説動画
@@ -77,7 +77,7 @@
 
 ### 高速配列検索GGGenome ###
 
-[![スクリーンショット](https://raw.githubusercontent.com/meso-cacase/20230510/master/images/gI2RPTP.png)](https://GGGenome.dbcls.jp/)
+[![スクリーンショット](https://github.com/meso-cacase/20240521/assets/819807/10a7624f-2f92-4e8d-bc52-1d234cc42833)](https://GGGenome.dbcls.jp/)
 
   - 高速配列検索GGGenome – https://GGGenome.dbcls.jp/
   - 統合TVによる解説動画
@@ -93,7 +93,7 @@
 
 ### CRISPR設計ウェブサーバCRISPRdirect ###
 
-[![スクリーンショット](https://raw.githubusercontent.com/meso-cacase/20230510/master/images/pDjEZfc.png)](https://crispr.dbcls.jp/)
+[![スクリーンショット](https://github.com/meso-cacase/20240521/assets/819807/3d0b8c9b-c5e3-420e-b2bf-39855ef81199)](https://crispr.dbcls.jp/)
 
   - CRISPRdirect - https://crispr.dbcls.jp/
   - 統合TVによる解説動画
@@ -113,19 +113,19 @@
     - [siDirectでsiRNAを設計する2011](https://togotv.dbcls.jp/ja/20110606.html)
     - [siDirectのオプションを使いこなす & shRNAを設計する](https://togotv.dbcls.jp/ja/20110712.html)
 
-[![スクリーンショット](https://raw.githubusercontent.com/meso-cacase/20230510/master/images/jxnGb7N.jpg)](https://siDirect2.RNAi.jp/)
+[![スクリーンショット](https://github.com/meso-cacase/20240521/assets/819807/00578930-b262-4c36-96bc-96c2275a45de)](https://siDirect2.RNAi.jp/)
 
   - テキスト比較ツール difff《ﾃﾞｭﾌﾌ》(https://difff.jp/)
   - 統合TVによる解説動画
     - [difff《ﾃﾞｭﾌﾌ》を使って文章の変更箇所を調べる](https://togotv.dbcls.jp/ja/20130828.html)
 
-[![スクリーンショット](https://raw.githubusercontent.com/meso-cacase/20230510/master/images/5rhGHwf.png)](https://difff.jp/)
+[![スクリーンショット](https://github.com/meso-cacase/20240521/assets/819807/a228d780-1e06-4836-9be2-87b33e92c664)](https://difff.jp/)
 
   - TogoDB (https://togodb.org/)
   - 統合TVによる解説動画
     - [TogoDBの使い方 自分のデータベースを作る](https://togotv.dbcls.jp/ja/20100807.html)
 
-[![スクリーンショット](https://raw.githubusercontent.com/meso-cacase/20230510/master/images/4unTZWy.png)](https://togodb.org/)
+[![スクリーンショット](https://github.com/meso-cacase/20240521/assets/819807/288a8c52-14da-40c4-a96f-b4c575f2ca98)](https://togodb.org/)
 
   - 研究者の情報を調べるためのツール
     - 研究成果から
